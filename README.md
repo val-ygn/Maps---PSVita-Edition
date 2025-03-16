@@ -1,7 +1,7 @@
 # Maps - PSVita Edition
 Une recréation de l'application Maps pour PSVita.
 
-MapsForVita est une application de cartographie open source pour PS Vita, qui te permet d'explorer le monde grâce aux données libres et collaboratives d'OpenStreetMap. Que tu sois en voyage, en randonnée ou simplement curieux de découvrir de nouveaux endroits, VitaMap vous guide avec précision et fournit des informations détaillées sur les rues, les sentiers, les points d'intérêt et bien plus encore.
+MapsForVita est une application de cartographie open source pour PS Vita, qui te permet d'explorer le monde grâce aux données libres et collaboratives d'OpenStreetMap. Que vous soyez en voyage, en randonnée ou simplement curieux de découvrir de nouveaux endroits, VitaMap vous guide avec précision et fournit des informations détaillées sur les rues, les sentiers, les points d'intérêt et bien plus encore.
 
 Fonctionnalités :
 
